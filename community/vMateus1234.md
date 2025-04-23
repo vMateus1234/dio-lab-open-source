@@ -16,7 +16,8 @@ Desenvolvendo Habilidades:
 
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SEUUSERNAME) 
-## GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vMateus1234&theme=transparent&bg_color=000&border_color=25A9DC&show_icons=true&icon_color=30A3DC&title_color=E50D9F&text_color=FFF)
+
 ## Sobre 
+### Cursando Ensino Médio - Curso e Colégio Integral
+### Inglês Avançado - Escola Wise UP
 Não tenho muita experiência. Estou caminhando em direção á proficionalização da minha carreira.
